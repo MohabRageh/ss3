@@ -86,9 +86,9 @@ export default function Start() {
   }
   return (
     <div>
-        <BrowserRouter>
+        <BrowserRouter basename='https://mohabrageh.github.io/ss3/'>
             <Routes>
-                <Route path="https://mohabrageh.github.io/ss3/" element={
+                <Route exact path='/' element={
                   <Login
                     userName={userName} 
                     password={password}
