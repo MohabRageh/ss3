@@ -17,6 +17,12 @@
       "userName": "asd",
       "password": "0116052800",
       "Name": "asd asd "
+    },
+    {
+      "id": 4,
+      "userName": "shymaa",
+      "password": "123",
+      "Name": "shosho"
     }
   ],
   "posts": [
@@ -103,6 +109,12 @@
       "id": 13,
       "name": "Mohab Yasser Rageh",
       "userId": 1
+    },
+    {
+      "body": "dsadsadsa",
+      "id": 14,
+      "name": "shosho",
+      "userId": 4
     }
   ]
 }
