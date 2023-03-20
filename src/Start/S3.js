@@ -71,7 +71,9 @@ const nav=useNavigate()
             /> 
             <Route path='*' element={<h1>missing</h1>}/>
         </Routes>
-        </>):(nav("/"))}
+        </>):window.location.href = "https://mohabrageh.github.io/ss3/"}
+        
+        
     </div>
   )
 }
